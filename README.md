@@ -9,5 +9,4 @@ atsathya/atsathya is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![@atsathya's Holopin bodard](https://holopin.me/atsathya)]
-!(https://holopin.io/@atsathya)
+[![@atsathya's Holopin board](https://holopin.me/atsathya)](https://holopin.io/@atsathya)
